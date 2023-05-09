@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400&display=swap');
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Tags */
+.Data-Engineering {
+  border: 0.1rem solid rgb(238, 89, 3);
+}
+.Data-Engineering:hover {
+  background: rgba(238, 89, 3, 0.25);
+}
+.Data-Science {
+  border: 0.1rem solid rgb(50, 85, 213);
+}
+.Data-Science:hover {
+  background: rgba(50, 85, 213, 0.25);
+}
+.Data-Mining {
+  border: 0.1rem solid rgb(213, 115, 50);
+}
+.Data-Mining:hover {
+  background: rgba(213, 142, 50, 0.25);
+}
+.Data-Analytics {
+  border: 0.1rem solid rgb(64, 213, 50);
+}
+.Data-Analytics:hover {
+  background: rgba(69, 213, 50, 0.25);
+}
+.Big-Data {
+  border: 0.1rem solid rgb(35, 185, 196);
+}
+.Big-Data:hover {
+  background: rgba(26, 201, 224, 0.25);
+}
+.Machine-Learning {
+  border: 0.1rem solid rgb(234, 69, 184);
+}
+.Machine-Learning:hover {
+  background: rgba(234, 69, 184, 0.25);
+}
+.Software-Engineering {
+  border: 0.1rem solid rgb(243, 164, 7);
+}
+.Software-Engineering:hover {
+  background: rgba(243, 164, 7, 0.25);
+}
+
+.Java {
+  border: 0.1rem solid rgb(2, 173, 203);
+}
+.Java:hover {
+  background: rgba(2, 173, 203, 0.25);
+}
+.Python {
+  border: 0.1rem solid rgb(50, 25, 162);
+}
+.Python:hover {
+  background: rgba(50, 25, 162, 0.25);
+}
+
+
+.SQL {
+  border: 0.1rem solid rgb(255, 118, 214);
+}
+.SQL:hover {
+  background: rgba(255, 118, 214, 0.25);
+}
+
+
+/* Lists */
+ul, li {
+  margin:0;
+  padding:0;
+ list-style:none      
+}
+
+li {
+  padding-left:20px; 
+}
+
+li:nth-child(1):before {
+  content: "* " 
+}
+
+li:nth-child(2):before {
+  content: "* " 
+}
+
+li:nth-child(3):before {
+  content: "* " 
+}
+
+li:nth-child(4):before {
+  content: "* " 
+}
+
+li:nth-child(5):before {
+  content: "* " 
+}
+
+/* Links colors */
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+}
+
+a:visited {
+  color: var(--accent-color);
+  text-decoration: none;
+
+}
+
