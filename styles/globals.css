@@ -51,7 +51,6 @@
 .Software-Engineering:hover {
   background: rgba(243, 164, 7, 0.25);
 }
-
 .Java {
   border: 0.1rem solid rgb(2, 173, 203);
 }
@@ -106,6 +105,39 @@
 .SQL:hover {
   background: rgba(255, 118, 214, 0.25);
 }
+.JavaFX {
+  border: 0.1rem solid rgb(203, 2, 29);
+}
+.JavaFX:hover {
+  background: rgba(203, 2, 19, 0.25);
+}
+.Signal-Processing {
+  border: 0.1rem solid rgb(190, 203, 2);
+}
+.Signal-Processing:hover {
+  background: rgba(200, 203, 2, 0.25);
+}
+.AStar{
+  border: 0.1rem solid rgb(194, 188, 189);
+}
+.AStar:hover {
+  background: rgba(223, 217, 218, 0.25);
+}
+.DFS{
+  border: 0.1rem solid rgb(197, 16, 167);
+}
+.DFS:hover {
+  background: rgba(197, 15, 151, 0.582);
+}
+.BFS{
+  border: 0.1rem solid rgb(77, 119, 67);
+}
+.BFS:hover {
+  background: rgba(59, 80, 57, 0.582);
+}
+
+
+
 
 
 /* Lists */
