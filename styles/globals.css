@@ -64,8 +64,42 @@
 .Python:hover {
   background: rgba(50, 25, 162, 0.25);
 }
-
-
+.R {
+  border: 0.1rem solid rgb(25, 162, 48);
+}
+.R:hover {
+  background: rgba(25, 162, 48, 0.25);
+}
+.Clustering {
+  border: 0.1rem solid rgb(162, 160, 25);
+}
+.Clustering:hover {
+  background: rgba(160, 162, 25, 0.25);
+}
+.Regression {
+  border: 0.1rem solid rgb(162, 25, 144);
+}
+.Regression:hover {
+  background: rgba(157, 25, 162, 0.25);
+}
+.Classification {
+  border: 0.1rem solid rgb(162, 34, 25);
+}
+.Classification:hover {
+  background: rgba(162, 41, 25, 0.25);
+}
+.KNN {
+  border: 0.1rem solid rgb(48, 162, 25);
+}
+.KNN:hover {
+  background: rgba(25, 162, 32, 0.25);
+}
+.Supervised-learning {
+  border: 0.1rem solid rgba(25, 135, 162, 0.014);
+}
+.Supervised-learning:hover {
+  background: rgba(25, 146, 162, 0.007);
+}
 .SQL {
   border: 0.1rem solid rgb(255, 118, 214);
 }
