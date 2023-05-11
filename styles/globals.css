@@ -93,11 +93,11 @@
 .KNN:hover {
   background: rgba(25, 162, 32, 0.25);
 }
-.Supervised-learning {
-  border: 0.1rem solid rgba(25, 135, 162, 0.014);
+.Supervised-learning{
+  border: 0.1rem solid rgb(10, 13, 189);
 }
 .Supervised-learning:hover {
-  background: rgba(25, 146, 162, 0.007);
+  background: rgba(28, 9, 201, 0.25);
 }
 .SQL {
   border: 0.1rem solid rgb(255, 118, 214);
@@ -133,6 +133,12 @@
   border: 0.1rem solid rgb(77, 119, 67);
 }
 .BFS:hover {
+  background: rgba(59, 80, 57, 0.582);
+}
+.Formula1{
+  border: 0.1rem solid rgb(77, 119, 67);
+}
+.Formula1:hover {
   background: rgba(59, 80, 57, 0.582);
 }
 
