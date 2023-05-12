@@ -141,6 +141,24 @@
 .Formula1:hover {
   background: rgba(59, 80, 57, 0.582);
 }
+.Docker{
+  border: 0.1rem solid rgb(26, 158, 219);
+}
+.Docker:hover {
+  background: rgba(13, 179, 230, 0.582);
+}
+.Spring{
+  border: 0.1rem solid rgb(54, 201, 9);
+}
+.Spring:hover {
+  background: rgba(34, 204, 11, 0.582);
+}
+.Cassandra{
+  border: 0.1rem solid rgb(196, 11, 165);
+}
+.Cassandra:hover {
+  background: rgba(179, 13, 212, 0.582);
+}
 
 
 
