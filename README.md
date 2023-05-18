@@ -2,6 +2,10 @@
 
 A Visual Studio Code themed developer portfolio website built with Next.js and deployed on Vercel.
 
+<p align="center">
+  <img src="https://github.com/madrian98/madrian98-portfolio/blob/main/README_Images/Preview.png" />
+</p>
+
 ## Environment Variables
 
 For fetching your articles from dev.to, create an `.env.local` file inside the project directory. Check the `.env.local.example` file for more information.
