@@ -29,7 +29,7 @@
   {
     "id": 4,
     "name": "Documents_Classification",
-    "image": "https://raw.githubusercontent.com/madrian98/Documents_Classification/main/Documents%20classification/uml/LogicUML.png",
+    "image": "https://raw.githubusercontent.com/madrian98/Documents_Classification/main/Documents%20classification/README_Images/LogicUML.png",
     "description": "Java application to classify articles based on their content with usage of KNN-Algorithm & N-gram as text comparison method & Chebyshev,Manhattan,Euclides metrics.",
     "tags": ["Java", "Machine-Learning", "Classification", "KNN","Supervised-learning"],
     "source_code": "https://github.com/madrian98/Documents_Classification",
