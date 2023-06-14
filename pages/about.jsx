@@ -25,7 +25,11 @@ const AboutPage = () =>
         <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />&nbsp;
         <img src="https://img.shields.io/badge/Matplotlib-05122A?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />&nbsp;
         <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />&nbsp;
+        <img src="https://img.shields.io/badge/XGBoost-F80000?style=for-the-badge&logo=XGBoost&logoColor=white" alt="XGBoost" />&nbsp;
         <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />&nbsp;
+        <img src="https://img.shields.io/badge/SciPy-0078d7.svg?style=for-the-badge&logo=SciPy&logoColor=green" alt="SciPy" />&nbsp;
+        <img src="https://img.shields.io/badge/Seaborn-FDEE21.svg?style=for-the-badge&logo=Seaborn&logoColor=white" alt="Seaborn" />&nbsp;
+        <img src="https://img.shields.io/badge/SQLAlchemy-F80000?style=for-the-badge&logo=SQLAlchemy&logoColor=white" alt="SqlAlchemy" />&nbsp;
 
         <br/>
         <br/>
@@ -52,6 +56,8 @@ const AboutPage = () =>
         <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" />&nbsp;
         <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />&nbsp;
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />&nbsp;
+        <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />&nbsp;
+        <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />&nbsp;
 
         <br/>
         <br/>

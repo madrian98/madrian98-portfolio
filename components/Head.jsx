@@ -17,7 +17,7 @@ const CustomHead = ({ title }) => {
         property="og:description"
         content="Mateusz Adrian's Portfolio."
       />
-      <meta property="og:url" content="https://madrian98.github.io" />
+      <meta property="og:url" content="https://github.com/madrian98/madrian98-portfolio" />
       <meta name="twitter:card" content="summary_large_image" />
     </Head>
   );

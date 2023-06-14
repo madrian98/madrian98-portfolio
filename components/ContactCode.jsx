@@ -8,8 +8,8 @@ const contactItems = [
   },
   {
     social: 'LinkedIn',
-    link: 'linkedin link',
-    href: 'linkedin ref',
+    link: 'linkedin.com/in/mateusz-adrian',
+    href: 'https://www.linkedin.com/in/mateusz-adrian/',
   },
   {
     social: 'GitHub',
@@ -18,8 +18,8 @@ const contactItems = [
   },
   {
     social: 'Website',
-    link: 'madrian98.github.io',
-    href: 'https://madrian98.github.io',
+    link: 'madrian-portfolio.vercel.app',
+    href: 'https://madrian-portfolio.vercel.app/',
   },
 ];
 
