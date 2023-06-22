@@ -18,8 +18,8 @@ const contactItems = [
   },
   {
     social: 'Website',
-    link: 'madrian-portfolio.vercel.app',
-    href: 'https://madrian-portfolio.vercel.app/',
+    link: 'mateusz-adrian.com',
+    href: 'https://www.mateusz-adrian.com',
   },
 ];
 
