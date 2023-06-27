@@ -13,9 +13,10 @@ const AboutPage = () =>
       <br/>
       <br/>
       <p>
-        <h4>📋 Languages </h4><br/>
+        <h4>📋 Programming Languages </h4><br/>
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />&nbsp;
+        <img src="https://custom-icon-badges.herokuapp.com/badge/SQL-F80000?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />&nbsp;
         <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />&nbsp;
        
         <br/>
