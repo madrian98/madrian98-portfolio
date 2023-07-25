@@ -74,6 +74,7 @@ const AboutPage = () =>
         <h4>🕓 Version Control</h4><br/>
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" />&nbsp;
+        <img src="https://img.shields.io/badge/bitbucket-%230A0FFF.svg?style=for-the-badge&logo=bitbucket&logoColor=blue" alt="BitBucket" />&nbsp;
         <br/>
         <br/>
      
