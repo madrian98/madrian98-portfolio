@@ -35,13 +35,20 @@ const AboutPage = () =>
         <br/>
         <h4>💾 Databases</h4><br/>
         <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MSSQL" />&nbsp;
-        <img src="https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=Snowflake&logoColor=white" alt="Snowflake" />&nbsp;
         <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" />&nbsp;
         <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="ORACLE" />&nbsp;
         <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />&nbsp;
         <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Cassandra" />&nbsp;
 
         
+        <br/>
+        <br/>
+        <h4>☁️ Cloud</h4><br/>
+        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=orange" alt="GCP" />&nbsp;
+        <img src="https://img.shields.io/badge/BigQuery-%230A0FFF.svg?style=for-the-badge&logo=GoogleBigQuery&logoColor=white" alt="Big Query" />&nbsp;
+        <img src="https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=Snowflake&logoColor=white" alt="Snowflake" />&nbsp;
+
+
         <br/>
         <br/>
         <h4>💾 Big Data</h4><br/>
