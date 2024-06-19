@@ -18,8 +18,8 @@ const contactItems = [
   },
   {
     social: 'Website',
-    link: 'mateusz-adrian.com',
-    href: 'https://www.mateusz-adrian.com',
+    link: 'madrian.dev',
+    href: 'https://madrian.dev/',
   },
 ];
 
