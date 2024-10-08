@@ -27,7 +27,6 @@ const AboutPage = () =>
         <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />&nbsp;
         <img src="https://img.shields.io/badge/XGBoost-F80000?style=for-the-badge&logo=XGBoost&logoColor=white" alt="XGBoost" />&nbsp;
         <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />&nbsp;
-        <img src="https://img.shields.io/badge/SciPy-0078d7.svg?style=for-the-badge&logo=SciPy&logoColor=green" alt="SciPy" />&nbsp;
         <img src="https://img.shields.io/badge/Seaborn-FDEE21.svg?style=for-the-badge&logo=Seaborn&logoColor=white" alt="Seaborn" />&nbsp;
         <img src="https://img.shields.io/badge/SQLAlchemy-F80000?style=for-the-badge&logo=SQLAlchemy&logoColor=white" alt="SqlAlchemy" />&nbsp;
 
