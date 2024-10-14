@@ -14,13 +14,5 @@
     "description": "15 puzzle solver with usage of BFS,DFS,A* algorithms.",
     "tags": ["Python", "AStar", "DFS", "BFS"],
     "source_code": "https://github.com/madrian98/15_puzzle_BFS_DFS_A-star"
-  },
-  {
-    "id": 3,
-    "name": "StudentsCassandraDB",
-    "image": "https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white",
-    "description": "CRUD->Spring boot + Docker + Apache Cassandra",
-    "tags": ["Java", "Python", "Spring", "Cassandra","Docker"],
-    "source_code": "https://github.com/madrian98/StudentsCassandraDB"
   }
 ]
