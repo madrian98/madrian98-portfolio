@@ -1,6 +1,35 @@
 [
   {
     "id": 1,
+    "name": "15 puzzle",
+    "image": "https://raw.githubusercontent.com/madrian98/15_puzzle_BFS_DFS_A-star/main/README_Image/goal_state.png",
+    "description": "15 puzzle solver with usage of BFS,DFS,A* algorithms.",
+    "tags": ["Python", "AStar", "DFS", "BFS"],
+    "source_code": "https://github.com/madrian98/15_puzzle_BFS_DFS_A-star"
+  },
+
+
+  {
+    "id": 2,
+    "name": "Documents_Classification",
+    "image": "https://raw.githubusercontent.com/madrian98/Documents_Classification/main/README_Images/LogicUML.png",
+    "description": "Java application to classify articles based on their content with usage of KNN-Algorithm & N-gram as text comparison method & Chebyshev,Manhattan,Euclides metrics.",
+    "tags": ["Java", "Machine-Learning", "Classification", "KNN","Supervised-learning"],
+    "source_code": "https://github.com/madrian98/Documents_Classification",
+    "binder": ""
+},
+  
+  {
+    "id": 23,
+    "name": "Digital Signal Processing",
+    "image": "https://raw.githubusercontent.com/madrian98/DigitalSignalProcessingApp/master/README_Image/Sinusoidal%20Signal.PNG",
+    "description": "Java application with main purpose of applying digital signal processing methods. GUI created with JavaFX.",
+    "tags": ["Java", "JavaFX", "Signal-Processing"],
+    "source_code": "https://github.com/madrian98/DigitalSignalProcessingApp"
+  },
+  
+  {
+    "id": 4,
     "name": "WorldHappinessPython",
     "image": "https://raw.githubusercontent.com/madrian98/WorldHappinessPython/main/README_Images/MAE%2CMSE%2CR2.png",
     "description": "The project involves using data from the World Happiness Report in applications related to data analysis, data science, data mining as well as utilizing machine learning methods, including supervised learning (regression) and unsupervised learning (clustering).",
@@ -9,7 +38,7 @@
     "binder": "https://mybinder.org/v2/gh/madrian98/WorldHappinessPython/609e608f9ebad23430ad240eac3813a943f67830?urlpath=lab%2Ftree%2FWorld%20Happiness%20Data%20Analysis%20(Python).ipynb"
   },
   {
-    "id": 2,
+    "id": 5,
     "name": "WorldHappinessR",
     "image": "https://raw.githubusercontent.com/madrian98/WorldHappiness-R/main/README_Images/Different%20Regression%20Algorithms.PNG",
     "description": "The project involves using data from the World Happiness Report in applications related to data analysis, data science, data mining as well as utilizing machine learning methods, including supervised learning (regression) and unsupervised learning (clustering).",
@@ -18,21 +47,15 @@
     "binder": "https://mybinder.org/v2/gh/madrian98/WorldHappiness-R/b779c0a4e166554f5fd0c8f29a5baaa7edc34e19?urlpath=lab%2Ftree%2FWorld%20Happiness%20Data%20Analysis%20(R).ipynb"
   },
   {
-    "id": 3,
+    "id": 6,
     "name": "Formula 1 Data Exploration",
     "image": "https://raw.githubusercontent.com/madrian98/Formula1DataExploration/main/f1.png",
     "description": "Processing large datasets of Formula 1 historic data with usage of Python and its libraries(e.g., Pandas, NumPy, Folium , Plotly).Including visualizations of many records&remarkable moments of this international racing sport.",
     "tags": ["Python", "Data-Mining", "Formula1","Data-Science","Data-Analytics"],
     "source_code": "https://github.com/madrian98/Formula1DataExploration",
     "binder": "https://mybinder.org/v2/gh/madrian98/Formula1DataExploration/main?labpath=Formula%201%20Data%20Exploration.ipynb"
-  },
-  {
-    "id": 4,
-    "name": "Documents_Classification",
-    "image": "https://raw.githubusercontent.com/madrian98/Documents_Classification/main/README_Images/LogicUML.png",
-    "description": "Java application to classify articles based on their content with usage of KNN-Algorithm & N-gram as text comparison method & Chebyshev,Manhattan,Euclides metrics.",
-    "tags": ["Java", "Machine-Learning", "Classification", "KNN","Supervised-learning"],
-    "source_code": "https://github.com/madrian98/Documents_Classification",
-    "binder": ""
   }
+  
+
+
 ]
