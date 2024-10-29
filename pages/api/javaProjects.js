@@ -1,4 +1,4 @@
-import data from './java-projects.json';
+import data from './javaProjects.json';
 
 export const getJavaProjects = () => {
   return data;

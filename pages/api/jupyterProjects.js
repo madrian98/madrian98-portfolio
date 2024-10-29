@@ -1,4 +1,4 @@
-import data from './jupyter-projects.json';
+import data from './jupyterProjects.json';
 
 export const getJupyterProjects = () => {
   return data;

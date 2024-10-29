@@ -1,7 +1,7 @@
 import ProjectCard from '../components/ProjectCard';
-import { getPythonProjects } from './api/python-projects';
-import { getJavaProjects } from './api/java-projects';
-import { getJupyterProjects } from './api/Jupyter-projects';
+import { getPythonProjects } from './api/pythonProjects';
+import { getJavaProjects } from './api/javaProjects';
+import { getJupyterProjects } from './api/jupyterProjects';
 import styles from '../styles/ProjectsPage.module.css';
 
 

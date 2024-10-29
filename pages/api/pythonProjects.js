@@ -1,4 +1,4 @@
-import data from './python-projects.json';
+import data from './pythonProjects.json';
 
 export const getPythonProjects = () => {
   return data;
