@@ -1,0 +1,11 @@
+[
+  {
+    "id": 6,
+    "name": "15 puzzle",
+    "image": "https://raw.githubusercontent.com/madrian98/15_puzzle_BFS_DFS_A-star/main/README_Image/goal_state.png",
+    "description": "15 puzzle solver with usage of BFS,DFS,A* algorithms.",
+    "tags": ["Python", "AStar", "DFS", "BFS"],
+    "source_code": "https://github.com/madrian98/15_puzzle_BFS_DFS_A-star"
+  }
+
+]

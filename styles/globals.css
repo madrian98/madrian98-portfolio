@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400&display=swap');
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Tags */
+.Data-Engineering {
+  border: 0.1rem solid rgb(238, 89, 3);
+}
+.Data-Engineering:hover {
+  background: rgba(238, 89, 3, 0.25);
+}
+.Data-Science {
+  border: 0.1rem solid rgb(50, 85, 213);
+}
+.Data-Science:hover {
+  background: rgba(50, 85, 213, 0.25);
+}
+.Data-Mining {
+  border: 0.1rem solid rgb(213, 115, 50);
+}
+.Data-Mining:hover {
+  background: rgba(213, 142, 50, 0.25);
+}
+.Data-Analytics {
+  border: 0.1rem solid rgb(64, 213, 50);
+}
+.Data-Analytics:hover {
+  background: rgba(69, 213, 50, 0.25);
+}
+.Big-Data {
+  border: 0.1rem solid rgb(35, 185, 196);
+}
+.Big-Data:hover {
+  background: rgba(26, 201, 224, 0.25);
+}
+.Machine-Learning {
+  border: 0.1rem solid rgb(234, 69, 184);
+}
+.Machine-Learning:hover {
+  background: rgba(234, 69, 184, 0.25);
+}
+.Software-Engineering {
+  border: 0.1rem solid rgb(243, 164, 7);
+}
+.Software-Engineering:hover {
+  background: rgba(243, 164, 7, 0.25);
+}
+.Java {
+  border: 0.1rem solid rgb(2, 173, 203);
+}
+.Java:hover {
+  background: rgba(2, 173, 203, 0.25);
+}
+.Python {
+  border: 0.1rem solid rgb(50, 25, 162);
+}
+.Python:hover {
+  background: rgba(50, 25, 162, 0.25);
+}
+.R {
+  border: 0.1rem solid rgb(25, 162, 48);
+}
+.R:hover {
+  background: rgba(25, 162, 48, 0.25);
+}
+.Clustering {
+  border: 0.1rem solid rgb(162, 160, 25);
+}
+.Clustering:hover {
+  background: rgba(160, 162, 25, 0.25);
+}
+.Regression {
+  border: 0.1rem solid rgb(162, 25, 144);
+}
+.Regression:hover {
+  background: rgba(157, 25, 162, 0.25);
+}
+.Classification {
+  border: 0.1rem solid rgb(162, 34, 25);
+}
+.Classification:hover {
+  background: rgba(162, 41, 25, 0.25);
+}
+.KNN {
+  border: 0.1rem solid rgb(48, 162, 25);
+}
+.KNN:hover {
+  background: rgba(25, 162, 32, 0.25);
+}
+.Supervised-learning{
+  border: 0.1rem solid rgb(10, 13, 189);
+}
+.Supervised-learning:hover {
+  background: rgba(28, 9, 201, 0.25);
+}
+.SQL {
+  border: 0.1rem solid rgb(255, 118, 214);
+}
+.SQL:hover {
+  background: rgba(255, 118, 214, 0.25);
+}
+.JavaFX {
+  border: 0.1rem solid rgb(203, 2, 29);
+}
+.JavaFX:hover {
+  background: rgba(203, 2, 19, 0.25);
+}
+.Signal-Processing {
+  border: 0.1rem solid rgb(190, 203, 2);
+}
+.Signal-Processing:hover {
+  background: rgba(200, 203, 2, 0.25);
+}
+.AStar{
+  border: 0.1rem solid rgb(194, 188, 189);
+}
+.AStar:hover {
+  background: rgba(223, 217, 218, 0.25);
+}
+.DFS{
+  border: 0.1rem solid rgb(197, 16, 167);
+}
+.DFS:hover {
+  background: rgba(197, 15, 151, 0.582);
+}
+.BFS{
+  border: 0.1rem solid rgb(77, 119, 67);
+}
+.BFS:hover {
+  background: rgba(59, 80, 57, 0.582);
+}
+.Formula1{
+  border: 0.1rem solid rgb(77, 119, 67);
+}
+.Formula1:hover {
+  background: rgba(59, 80, 57, 0.582);
+}
+.Docker{
+  border: 0.1rem solid rgb(26, 158, 219);
+}
+.Docker:hover {
+  background: rgba(13, 179, 230, 0.582);
+}
+.Spring{
+  border: 0.1rem solid rgb(54, 201, 9);
+}
+.Spring:hover {
+  background: rgba(34, 204, 11, 0.582);
+}
+.Cassandra{
+  border: 0.1rem solid rgb(196, 11, 165);
+}
+.Cassandra:hover {
+  background: rgba(179, 13, 212, 0.582);
+}
+
+
+
+
+
+/* Lists */
+ul, li {
+  margin:0;
+  padding:0;
+ list-style:none      
+}
+
+li {
+  padding-left:20px; 
+}
+
+li:nth-child(1):before {
+  content: "* " 
+}
+
+li:nth-child(2):before {
+  content: "* " 
+}
+
+li:nth-child(3):before {
+  content: "* " 
+}
+
+li:nth-child(4):before {
+  content: "* " 
+}
+
+li:nth-child(5):before {
+  content: "* " 
+}
+
+/* Links colors */
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+}
+
+a:visited {
+  color: var(--accent-color);
+  text-decoration: none;
+
+}
+

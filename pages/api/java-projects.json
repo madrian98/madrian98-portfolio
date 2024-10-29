@@ -1,0 +1,23 @@
+[
+  
+  {
+    "id": 1,
+    "name": "Documents_Classification",
+    "image": "https://raw.githubusercontent.com/madrian98/Documents_Classification/main/README_Images/LogicUML.png",
+    "description": "Java application to classify articles based on their content with usage of KNN-Algorithm & N-gram as text comparison method & Chebyshev,Manhattan,Euclides metrics.",
+    "tags": ["Java", "Machine-Learning", "Classification", "KNN","Supervised-learning"],
+    "source_code": "https://github.com/madrian98/Documents_Classification"
+},
+  
+  {
+    "id": 2,
+    "name": "Digital Signal Processing",
+    "image": "https://raw.githubusercontent.com/madrian98/DigitalSignalProcessingApp/master/README_Image/Sinusoidal%20Signal.PNG",
+    "description": "Java application with main purpose of applying digital signal processing methods. GUI created with JavaFX.",
+    "tags": ["Java", "JavaFX", "Signal-Processing"],
+    "source_code": "https://github.com/madrian98/DigitalSignalProcessingApp"
+  }
+  
+ 
+
+]
