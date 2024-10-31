@@ -1,5 +1,14 @@
 [
   {
+    "id": 7,
+    "name": "Formula 1 Data Exploration",
+    "image": "https://raw.githubusercontent.com/madrian98/Formula1DataExploration/main/f1.png",
+    "description": "Processing large datasets of Formula 1 historic data with usage of Python and its libraries(e.g., Pandas, NumPy, Folium , Plotly).Including visualizations of many records&remarkable moments of this international racing sport.",
+    "tags": ["Python", "Data-Mining", "Formula1","Data-Science","Data-Analytics"],
+    "source_code": "https://github.com/madrian98/Formula1DataExploration",
+    "binder": "https://mybinder.org/v2/gh/madrian98/Formula1DataExploration/main?labpath=Formula%201%20Data%20Exploration.ipynb"
+  },
+  {
     "id": 3,
     "name": "WorldHappinessPython",
     "image": "https://raw.githubusercontent.com/madrian98/WorldHappinessPython/main/README_Images/MAE%2CMSE%2CR2.png",
@@ -16,15 +25,6 @@
     "tags": ["R", "Data-Science", "Machine-Learning","Data-Mining","Clustering","Regression","Data-Analytics"],
     "source_code": "https://github.com/madrian98/WorldHappiness-R",
     "binder": "https://mybinder.org/v2/gh/madrian98/WorldHappiness-R/b779c0a4e166554f5fd0c8f29a5baaa7edc34e19?urlpath=lab%2Ftree%2FWorld%20Happiness%20Data%20Analysis%20(R).ipynb"
-  },
-  {
-    "id": 5,
-    "name": "Formula 1 Data Exploration",
-    "image": "https://raw.githubusercontent.com/madrian98/Formula1DataExploration/main/f1.png",
-    "description": "Processing large datasets of Formula 1 historic data with usage of Python and its libraries(e.g., Pandas, NumPy, Folium , Plotly).Including visualizations of many records&remarkable moments of this international racing sport.",
-    "tags": ["Python", "Data-Mining", "Formula1","Data-Science","Data-Analytics"],
-    "source_code": "https://github.com/madrian98/Formula1DataExploration",
-    "binder": "https://mybinder.org/v2/gh/madrian98/Formula1DataExploration/main?labpath=Formula%201%20Data%20Exploration.ipynb"
   }
   
 ]

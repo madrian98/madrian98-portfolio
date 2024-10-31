@@ -57,6 +57,10 @@ const GithubPage = ({ repos, user }) => {
 };
 
 export async function getStaticProps() {
+
+  const ignoredRepos = ['awesome-machine-learning', 'Cookbook', 'data-science-ipython-notebooks',
+    'Hadoop-book','madrian98','code_snippets','sqlserver-kit','DataScienceR','PythonDataScienceHandbook']
+  ;
   const userRes = await fetch(
     `https://api.github.com/users/${process.env.NEXT_PUBLIC_GITHUB_USERNAME}`,
     {
@@ -75,24 +79,43 @@ export async function getStaticProps() {
       },
     }
   );
+
+  
   let repos = await repoRes.json();
   repos = repos
-    .sort((a, b) => {
-      if (a.html_url.includes('EESTech') || a.html_url.includes('COSC')) {
-        return b
-      }
-      if (b.html_url.includes('EESTech') || b.html_url.includes('COSC')) {
-        return a
-      }
 
-      return (b.stargazers_count + b.watchers_count + b.forks_count) - (a.stargazers_count + a.watchers_count + a.forks_count)
-    })
-    .slice(0, 8);
+   repos = repos.filter(repo => !ignoredRepos.includes(repo.name));
+
+   const trafficDataPromises = repos.map(async (repo) => {
+     const trafficRes = await fetch(
+       `https://api.github.com/repos/${process.env.NEXT_PUBLIC_GITHUB_USERNAME}/${repo.name}/traffic/views`,
+       {
+         headers: {
+           Authorization: `token ${process.env.GITHUB_API_KEY}`,
+         },
+       }
+     );
+     const trafficData = await trafficRes.json();
+     return {
+       ...repo,
+       traffic: trafficData.count || 0,   
+     };
+   });
+ 
+   repos = await Promise.all(trafficDataPromises);
+ 
+   repos = repos.sort((a, b) => {
+    if (a.traffic === b.traffic) {
+      return (b.stargazers_count + b.watchers_count + b.forks_count) - (a.stargazers_count + a.watchers_count + a.forks_count);
+    }
+    return b.traffic - a.traffic;
+  }).slice(0, 8);
 
   return {
     props: { title: 'GitHub', repos, user },
     revalidate: 10,
   };
+
 }
 
 export default GithubPage;
