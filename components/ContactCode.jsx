@@ -2,11 +2,6 @@ import styles from '../styles/ContactCode.module.css';
 
 const contactItems = [
   {
-    social: 'Email',
-    link: 'mateuszadrian33@gmail.com',
-    href: 'mailto:mateuszadrian33@gmail.com',
-  },
-  {
     social: 'LinkedIn',
     link: 'linkedin.com/in/mateusz-adrian',
     href: 'https://www.linkedin.com/in/mateusz-adrian/',

@@ -43,9 +43,8 @@ const AboutPage = () =>
         <br/>
         <br/>
         <h4>☁️ Cloud</h4><br/>
-        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=orange" alt="GCP" />&nbsp;
-        <img src="https://img.shields.io/badge/BigQuery-%230A0FFF.svg?style=for-the-badge&logo=GoogleBigQuery&logoColor=white" alt="Big Query" />&nbsp;
         <img src="https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=Snowflake&logoColor=white" alt="Snowflake" />&nbsp;
+        <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />&nbsp;
 
 
         <br/>
