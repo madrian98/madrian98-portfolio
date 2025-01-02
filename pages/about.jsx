@@ -23,9 +23,7 @@ const AboutPage = () =>
         <h4>🖥️ Libraries </h4><br/>
         <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />&nbsp;
         <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />&nbsp;
-        <img src="https://img.shields.io/badge/Matplotlib-05122A?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />&nbsp;
         <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />&nbsp;
-        <img src="https://img.shields.io/badge/XGBoost-F80000?style=for-the-badge&logo=XGBoost&logoColor=white" alt="XGBoost" />&nbsp;
         <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />&nbsp;
         <img src="https://img.shields.io/badge/Seaborn-FDEE21.svg?style=for-the-badge&logo=Seaborn&logoColor=white" alt="Seaborn" />&nbsp;
         <img src="https://img.shields.io/badge/SQLAlchemy-F80000?style=for-the-badge&logo=SQLAlchemy&logoColor=white" alt="SqlAlchemy" />&nbsp;
